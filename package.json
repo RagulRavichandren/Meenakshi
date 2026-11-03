@@ -1,0 +1,16 @@
+{
+  "name": "sri-meenakshi-sweets-and-bakery",
+  "version": "1.0.0",
+  "description": "Store address and contact page for Sri Meenakshi Sweets & Bakery in Madurai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "madurai",
+    "meenakshi",
+    "store-address"
+  ],
+  "author": "Sri Meenakshi Sweets & Bakery",
+  "license": "ISC"
+}
