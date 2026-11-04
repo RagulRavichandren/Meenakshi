@@ -1197,8 +1197,8 @@ textarea.field-control {
 .floating-wa-btn {
   position: fixed;
   bottom: 28px;
-  left: 28px !important;
-  right: auto !important;
+  left: auto !important;
+  right: 28px !important;
   background: var(--logo-pink);
   color: #ffffff;
   padding: 12px 22px;
